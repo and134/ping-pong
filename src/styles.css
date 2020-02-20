@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.board {
+  border: 1px solid black;
+}
+
+.ball {
+  position: fixed;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  background: black;
+}
+
+.paleta {
+  position: fixed;
+  width: 5px;
+  height: 30px;
+  background: blue;
+  border-radius: 2px;
+}
+
+.score {
+  position: fixed;
+  top: 30px;
+  width: 500px;
+  left: 220px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
